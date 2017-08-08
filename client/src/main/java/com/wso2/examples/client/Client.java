@@ -1,6 +1,5 @@
 package com.wso2.examples.client;
 
-
 import java.io.DataInputStream;
 import java.io.PrintStream;
 import java.io.BufferedReader;

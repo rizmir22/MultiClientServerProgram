@@ -9,8 +9,8 @@ This is a Multi Client Server Program.
 
 
 
-* To Run the program you should run the Server first.
-* Then You need to Run the Client
+* To Run the program you should run the Server first using mvn clean install.
+* Then You need to Run the Client same as the above.
 * make sure the Sevrver host is correct and Port which is going to connect is same as Server listening Port.
 * you will receive a massage that which port you are connected and welcome message.
 * if you want to disconnect then type as quit client sever connection will be disconnected

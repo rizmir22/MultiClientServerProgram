@@ -1,6 +1,5 @@
 package com.wso2.examples.server;
 
-
 import java.util.*;
 import java.net.*;
 import java.util.concurrent.*;
